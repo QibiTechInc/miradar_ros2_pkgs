@@ -1,0 +1,16 @@
+miradar_node:
+   ros__parameters:
+      devicename: /dev/ttyUSB0
+      sensor_mode: 2
+      max_distance: 3.0
+      min_distance: 0.3
+      alarm_distance: 0
+      max_dB: -20
+      min_dB: -40
+      distance_div: 64
+      angle_div: 45
+      tx_power: -7
+      hpf_gain: 1
+      pga_gain: 1
+      duration: 200
+      scan_mode: 0
